@@ -1,7 +1,7 @@
 {
   "name": "registro_nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Estoy editando mi descripcion del archivo",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
